@@ -2,4 +2,5 @@
 
 This is a basics of java here you can learn java from scratch 
 
-for myqrcode.java you will need some Libraries
+For myqrcode.java you will need some Libraries
+Download these libraries from Libs folder and add to your IDE
