@@ -14,6 +14,7 @@ public static void main(String args[])
 		System.out.println("original number"+numb);
 		System.out.println("divided 1 element"+divid);
 		System.out.println("divided 2 element"+num1);
+		sc.close();
 	}
 catch (Exception e)
 {
