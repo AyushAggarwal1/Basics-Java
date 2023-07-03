@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Libs/json-simple-2.1.2.jar",
+        "Libs/qrgen-1.0.jar",
+        "Libs/zxing-core-1.7.jar",
+        "Libs/zxing-j2se-1.7.jar"
+    ]
+}
